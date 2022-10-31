@@ -1,0 +1,1 @@
+http://statsapi.mlb.com/api/v1/schedule/games/?sportId=1

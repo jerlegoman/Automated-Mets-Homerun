@@ -1,0 +1,89 @@
+{
+  "copyright" : "Copyright 2022 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "totalItems" : 1,
+  "totalEvents" : 0,
+  "totalGames" : 1,
+  "totalGamesInProgress" : 0,
+  "dates" : [ {
+    "date" : "2022-10-31",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalGamesInProgress" : 0,
+    "games" : [ {
+      "gamePk" : 715722,
+      "link" : "/api/v1.1/game/715722/feed/live",
+      "gameType" : "W",
+      "season" : "2022",
+      "gameDate" : "2022-11-01T00:03:00Z",
+      "officialDate" : "2022-10-31",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "S",
+        "detailedState" : "Scheduled",
+        "statusCode" : "L",
+        "startTimeTBD" : false,
+        "abstractGameCode" : "P"
+      },
+      "score" : 0,
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "pct" : ".500"
+          },
+          "team" : {
+            "id" : 117,
+            "name" : "Houston Astros",
+            "link" : "/api/v1/teams/117"
+          },
+          "splitSquad" : false,
+          "seriesNumber" : 1
+        },
+        "score" : 0,
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "pct" : ".500"
+          },
+          "team" : {
+            "id" : 143,
+            "name" : "Philadelphia Phillies",
+            "link" : "/api/v1/teams/143"
+          },
+          "splitSquad" : false,
+          "seriesNumber" : 1
+        }
+      },
+      "venue" : {
+        "id" : 2681,
+        "name" : "Citizens Bank Park",
+        "link" : "/api/v1/venues/2681"
+      },
+      "content" : {
+        "link" : "/api/v1/game/715722/content"
+      },
+      "gameNumber" : 1,
+      "publicFacing" : true,
+      "doubleHeader" : "N",
+      "gamedayType" : "P",
+      "tiebreaker" : "N",
+      "calendarEventID" : "14-715722-2022-10-31",
+      "seasonDisplay" : "2022",
+      "dayNight" : "night",
+      "description" : "World Series Game 3",
+      "scheduledInnings" : 9,
+      "reverseHomeAwayStatus" : false,
+      "inningBreakLength" : 120,
+      "gamesInSeries" : 7,
+      "seriesGameNumber" : 3,
+      "seriesDescription" : "World Series",
+      "recordSource" : "S",
+      "ifNecessary" : "N",
+      "ifNecessaryDescription" : "Normal Game"
+    } ],
+    "events" : [ ]
+  } ]
+}

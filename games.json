@@ -1,0 +1,255 @@
+{
+  "copyright" : "Copyright 2022 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "totalItems" : 3,
+  "totalEvents" : 0,
+  "totalGames" : 3,
+  "totalGamesInProgress" : 0,
+  "dates" : [ {
+    "date" : "2022-10-28",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalGamesInProgress" : 0,
+    "games" : [ {
+      "gamePk" : 715724,
+      "link" : "/api/v1.1/game/715724/feed/live",
+      "gameType" : "W",
+      "season" : "2022",
+      "gameDate" : "2022-10-29T00:03:00Z",
+      "officialDate" : "2022-10-28",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "F",
+        "detailedState" : "Final",
+        "statusCode" : "L",
+        "startTimeTBD" : false,
+        "abstractGameCode" : "F"
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "pct" : "1.000"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 143,
+            "name" : "Philadelphia Phillies",
+            "link" : "/api/v1/teams/143"
+          },
+          "isWinner" : true,
+          "splitSquad" : false,
+          "seriesNumber" : 1
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 1,
+            "pct" : ".000"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 117,
+            "name" : "Houston Astros",
+            "link" : "/api/v1/teams/117"
+          },
+          "isWinner" : false,
+          "splitSquad" : false,
+          "seriesNumber" : 1
+        }
+      },
+      "venue" : {
+        "id" : 2392,
+        "name" : "Minute Maid Park",
+        "link" : "/api/v1/venues/2392"
+      },
+      "content" : {
+        "link" : "/api/v1/game/715724/content"
+      },
+      "isTie" : false,
+      "gameNumber" : 1,
+      "publicFacing" : true,
+      "doubleHeader" : "N",
+      "gamedayType" : "P",
+      "tiebreaker" : "N",
+      "calendarEventID" : "14-715724-2022-10-28",
+      "seasonDisplay" : "2022",
+      "dayNight" : "night",
+      "description" : "World Series Game 1",
+      "scheduledInnings" : 9,
+      "reverseHomeAwayStatus" : false,
+      "inningBreakLength" : 120,
+      "gamesInSeries" : 7,
+      "seriesGameNumber" : 1,
+      "seriesDescription" : "World Series",
+      "recordSource" : "S",
+      "ifNecessary" : "N",
+      "ifNecessaryDescription" : "Normal Game"
+    } ],
+    "events" : [ ]
+  }, {
+    "date" : "2022-10-29",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalGamesInProgress" : 0,
+    "games" : [ {
+      "gamePk" : 715723,
+      "link" : "/api/v1.1/game/715723/feed/live",
+      "gameType" : "W",
+      "season" : "2022",
+      "gameDate" : "2022-10-30T00:03:00Z",
+      "officialDate" : "2022-10-29",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "F",
+        "detailedState" : "Final",
+        "statusCode" : "F",
+        "startTimeTBD" : false,
+        "abstractGameCode" : "F"
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "pct" : ".500"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 143,
+            "name" : "Philadelphia Phillies",
+            "link" : "/api/v1/teams/143"
+          },
+          "isWinner" : false,
+          "splitSquad" : false,
+          "seriesNumber" : 1
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "pct" : ".500"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 117,
+            "name" : "Houston Astros",
+            "link" : "/api/v1/teams/117"
+          },
+          "isWinner" : true,
+          "splitSquad" : false,
+          "seriesNumber" : 1
+        }
+      },
+      "venue" : {
+        "id" : 2392,
+        "name" : "Minute Maid Park",
+        "link" : "/api/v1/venues/2392"
+      },
+      "content" : {
+        "link" : "/api/v1/game/715723/content"
+      },
+      "isTie" : false,
+      "gameNumber" : 1,
+      "publicFacing" : true,
+      "doubleHeader" : "N",
+      "gamedayType" : "P",
+      "tiebreaker" : "N",
+      "calendarEventID" : "14-715723-2022-10-29",
+      "seasonDisplay" : "2022",
+      "dayNight" : "night",
+      "description" : "World Series Game 2",
+      "scheduledInnings" : 9,
+      "reverseHomeAwayStatus" : false,
+      "inningBreakLength" : 120,
+      "gamesInSeries" : 7,
+      "seriesGameNumber" : 2,
+      "seriesDescription" : "World Series",
+      "recordSource" : "S",
+      "ifNecessary" : "N",
+      "ifNecessaryDescription" : "Normal Game"
+    } ],
+    "events" : [ ]
+  }, {
+    "date" : "2022-10-31",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalGamesInProgress" : 0,
+    "games" : [ {
+      "gamePk" : 715722,
+      "link" : "/api/v1.1/game/715722/feed/live",
+      "gameType" : "W",
+      "season" : "2022",
+      "gameDate" : "2022-11-01T00:03:00Z",
+      "officialDate" : "2022-10-31",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "S",
+        "detailedState" : "Scheduled",
+        "statusCode" : "S",
+        "startTimeTBD" : false,
+        "abstractGameCode" : "P"
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "pct" : ".500"
+          },
+          "team" : {
+            "id" : 117,
+            "name" : "Houston Astros",
+            "link" : "/api/v1/teams/117"
+          },
+          "splitSquad" : false,
+          "seriesNumber" : 1
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "pct" : ".500"
+          },
+          "team" : {
+            "id" : 143,
+            "name" : "Philadelphia Phillies",
+            "link" : "/api/v1/teams/143"
+          },
+          "splitSquad" : false,
+          "seriesNumber" : 1
+        }
+      },
+      "venue" : {
+        "id" : 2681,
+        "name" : "Citizens Bank Park",
+        "link" : "/api/v1/venues/2681"
+      },
+      "content" : {
+        "link" : "/api/v1/game/715722/content"
+      },
+      "gameNumber" : 1,
+      "publicFacing" : true,
+      "doubleHeader" : "N",
+      "gamedayType" : "P",
+      "tiebreaker" : "N",
+      "calendarEventID" : "14-715722-2022-10-31",
+      "seasonDisplay" : "2022",
+      "dayNight" : "night",
+      "description" : "World Series Game 3",
+      "scheduledInnings" : 9,
+      "reverseHomeAwayStatus" : false,
+      "inningBreakLength" : 120,
+      "gamesInSeries" : 7,
+      "seriesGameNumber" : 3,
+      "seriesDescription" : "World Series",
+      "recordSource" : "S",
+      "ifNecessary" : "N",
+      "ifNecessaryDescription" : "Normal Game"
+    } ],
+    "events" : [ ]
+  } ]
+}
